@@ -52,6 +52,8 @@ export const siteConfig = {
 
   rawEmail: "prathviks369@gmail.com",
   resumeUrl: "/resume.pdf",
+  resumeText: "My updated resume with details on education, coursework, projects, and community leadership.",
+  resumeNote: "PDF format • Available for internships & entry-level roles",
 
   about: {
     p1: "I'm a Computer Science Engineering student who likes figuring out how things work — and then trying to build them myself. Most of what I know came from breaking something, reading the docs, and fixing it again.",
